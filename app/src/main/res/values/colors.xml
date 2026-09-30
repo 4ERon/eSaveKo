@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sage_green">#99BC85</color>
+    <color name="mint_white">#E4EFE7</color>
+    <color name="warm_white">#FDFAF6</color>
+    <color name="cream">#FAF1E6</color>
+    <color name="lightgreen">#DDF4E7</color>
+
+    <color name="dark_green">#35513B</color>
+    <color name="text_primary">#26372B</color>
+    <color name="text_secondary">#718074</color>
+    <color name="white">#FFFFFF</color>
+    <color name="error_red">#BA4949</color>
+</resources>
